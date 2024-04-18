@@ -28,5 +28,6 @@ Se quiser entrar em contato:
 
 </p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=mako8231&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=mako8231&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mako8231&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
