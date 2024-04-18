@@ -21,7 +21,7 @@ Olá, meu nome é Masao Muraoka Neto! Tenho 24 anos e estou focado em melhorar m
 Se quiser entrar em contato:
 
 <a href="#" title="Discord">
-  <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=#" alt="Discord"/></a> _mak08231
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=#" alt="Discord"/></a> _m4k08231
 <p align="left"> 
 
 <a href="mailto:mm.neto2007@gmail.com" title="Gmail">
