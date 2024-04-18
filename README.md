@@ -22,7 +22,8 @@ Se quiser entrar em contato:
 
 <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=#" alt="Discord"/></a>
-<p align="left"> _mak08231
+  _mak08231
+<p align="left"> 
 
 <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mm.neto2007@gmail.com" alt="Gmail"/></a>
