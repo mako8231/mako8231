@@ -21,16 +21,14 @@ Olá, meu nome é Masao Muraoka Neto! Tenho 24 anos e estou focado em melhorar m
 Se quiser entrar em contato:
 
 <a href="#" title="Discord">
-  <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=#" alt="Discord"/></a>
-  _mak08231
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=#" alt="Discord"/></a> **_mak08231**
 <p align="left"> 
 
-<a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mm.neto2007@gmail.com" alt="Gmail"/></a>
+<a href="mailto:mm.neto2007@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mm.neto2007@gmail.com" alt="Gmail"/></a>
 
-<a href="#" title="LinkedIn">
+<a href="https://www.linkedin.com/in/masao-muraoka-53a772224/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masao-muraoka-53a772224/" alt="LinkedIn"/></a>
-
 
 </p>
 
