@@ -1,4 +1,4 @@
-<h2> Bem vindo ao meu perfil </h2>
+<h2> Bem vindo(a) ao meu perfil </h2>
 
 <img src="oosaka.jpg" alt="osaka." min-width="400px" max-width="400px" width="400px" align="right">
 
