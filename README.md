@@ -4,21 +4,26 @@
 
 Olá, meu nome é Masao Muraoka Neto! Tenho 24 anos e estou focado em melhorar minhas abilidades em me tornar um desenvolvedor fullstack. Faço Engenharia de Computação na UFGD e estou no meu quarto ano de curso. Sou um artista e desenvolvedor de jogos nas horas vagas. 
 
-Linguagens:
+**Linguagens:**
 - GO (minha favorita)
 - C/C++ (minha segunda favorita)
+- Lua 
 - Python
 - PHP
 - Node.js
 
-Ferramentas:
+**Ferramentas:**
 - Visual Studio Code
 - Gimp
 - Krita
 - Godot 
 
 Se quiser entrar em contato:
-<p align="left">
+
+<a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=#" alt="Discord"/></a>
+<p align="left"> _mak08231
+
 <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mm.neto2007@gmail.com" alt="Gmail"/></a>
 
