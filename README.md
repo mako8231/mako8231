@@ -28,4 +28,5 @@ Se quiser entrar em contato:
 
 </p>
 
+[![card](https://github-readme-stats.vercel.app/api?username=mako8231&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
