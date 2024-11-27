@@ -1,6 +1,6 @@
 <h2> Bem vindo(a) ao meu perfil </h2>
 
-<img src="oosaka.jpg" alt="osaka." min-width="400px" max-width="400px" width="400px" align="right">
+<img src="rain.png" alt="lain-golang" min-width="400px" max-width="400px" width="400px" align="right">
 
 Olá, meu nome é Masao Muraoka Neto! Tenho 24 anos e estou focado em melhorar minhas habilidades em me tornar um desenvolvedor fullstack. Faço Engenharia de Computação na UFGD e estou no meu quarto ano de curso. Sou um artista e desenvolvedor de jogos nas horas vagas. 
 
